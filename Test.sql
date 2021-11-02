@@ -1,2 +1,3 @@
 Select 123 from employee;
-select * from car ;
+Select * from car ;
+Select custId from customer;
